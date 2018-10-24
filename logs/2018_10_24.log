@@ -1,0 +1,120 @@
+2018-10-24 10:42:45,466 - root - INFO - -----登录成功用例：start!------
+2018-10-24 10:42:45,469 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:42:45,471 - root - INFO - 输入正确的密码：yinruihua1996
+2018-10-24 10:42:45,985 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:42:45,987 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:42:45,988 - root - INFO - -----pass!------
+2018-10-24 10:42:45,990 - root - INFO - -----登录失败用例：start!------
+2018-10-24 10:42:45,991 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:42:45,992 - root - INFO - 输入错误的密码：sdffdgsfdh
+2018-10-24 10:42:46,067 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:42:46,069 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:42:46,070 - root - INFO - -----pass!------
+2018-10-24 10:42:46,072 - root - INFO - -----start------
+2018-10-24 10:42:46,074 - root - INFO - 测试单号：669169041752 快递名称：天天快递
+2018-10-24 10:42:46,075 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-669169041752-tiantian.html
+2018-10-24 10:42:46,366 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'tiantian', 'nu': '669169041752', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:42:46,367 - root - INFO - 获取公司名称：None
+2018-10-24 10:42:46,369 - root - INFO - 获取data内容：
+2018-10-24 10:42:46,371 - root - INFO - -----start------
+2018-10-24 10:42:46,372 - root - INFO - 测试单号：3832808463094 快递名称：韵达快递
+2018-10-24 10:42:46,373 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-3832808463094-yunda.html
+2018-10-24 10:42:46,589 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yunda', 'nu': '3832808463094', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:42:46,590 - root - INFO - 获取公司名称：None
+2018-10-24 10:42:46,592 - root - INFO - 获取data内容：
+2018-10-24 10:44:28,766 - root - INFO - -----登录成功用例：start!------
+2018-10-24 10:44:28,768 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:44:28,770 - root - INFO - 输入正确的密码：yinruihua1996
+2018-10-24 10:44:29,310 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:44:29,313 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:44:29,315 - root - INFO - -----pass!------
+2018-10-24 10:44:29,317 - root - INFO - -----登录失败用例：start!------
+2018-10-24 10:44:29,319 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:44:29,322 - root - INFO - 输入错误的密码：sdffdgsfdh
+2018-10-24 10:44:29,402 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:44:29,404 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:44:29,405 - root - INFO - -----pass!------
+2018-10-24 10:44:29,407 - root - INFO - -----start------
+2018-10-24 10:44:29,409 - root - INFO - 测试单号：669169041752 快递名称：天天快递
+2018-10-24 10:44:29,410 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-669169041752-tiantian.html
+2018-10-24 10:44:29,550 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'tiantian', 'nu': '669169041752', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:44:29,552 - root - INFO - 获取公司名称：None
+2018-10-24 10:44:29,553 - root - INFO - 获取data内容：
+2018-10-24 10:44:29,555 - root - INFO - -----start------
+2018-10-24 10:44:29,557 - root - INFO - 测试单号：3832808463094 快递名称：韵达快递
+2018-10-24 10:44:29,558 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-3832808463094-yunda.html
+2018-10-24 10:44:29,682 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yunda', 'nu': '3832808463094', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:44:29,683 - root - INFO - 获取公司名称：None
+2018-10-24 10:44:29,685 - root - INFO - 获取data内容：
+2018-10-24 10:46:55,224 - root - INFO - -----登录成功用例：start!------
+2018-10-24 10:46:55,226 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:46:55,227 - root - INFO - 输入正确的密码：yinruihua1996
+2018-10-24 10:46:55,695 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:46:55,697 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:46:55,698 - root - INFO - -----pass!------
+2018-10-24 10:46:55,699 - root - INFO - -----登录失败用例：start!------
+2018-10-24 10:46:55,701 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:46:55,702 - root - INFO - 输入错误的密码：sdffdgsfdh
+2018-10-24 10:46:55,785 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:46:55,787 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:46:55,788 - root - INFO - -----pass!------
+2018-10-24 10:46:55,790 - root - INFO - -----start------
+2018-10-24 10:46:55,791 - root - INFO - 测试单号：669169041752 快递名称：天天快递
+2018-10-24 10:46:55,792 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-669169041752-tiantian.html
+2018-10-24 10:46:55,911 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'tiantian', 'nu': '669169041752', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:46:55,911 - root - INFO - 获取公司名称：None
+2018-10-24 10:46:55,913 - root - INFO - 获取data内容：
+2018-10-24 10:46:55,915 - root - INFO - -----start------
+2018-10-24 10:46:55,916 - root - INFO - 测试单号：3832808463094 快递名称：韵达快递
+2018-10-24 10:46:55,917 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-3832808463094-yunda.html
+2018-10-24 10:46:56,041 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yunda', 'nu': '3832808463094', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:46:56,042 - root - INFO - 获取公司名称：None
+2018-10-24 10:46:56,043 - root - INFO - 获取data内容：
+2018-10-24 10:49:20,773 - root - INFO - -----登录成功用例：start!------
+2018-10-24 10:49:20,774 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:49:20,775 - root - INFO - 输入正确的密码：yinruihua1996
+2018-10-24 10:49:21,711 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:49:21,713 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:49:21,714 - root - INFO - -----pass!------
+2018-10-24 10:49:21,716 - root - INFO - -----登录失败用例：start!------
+2018-10-24 10:49:21,717 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 10:49:21,718 - root - INFO - 输入错误的密码：sdffdgsfdh
+2018-10-24 10:49:21,859 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 10:49:21,860 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 10:49:21,861 - root - INFO - -----pass!------
+2018-10-24 10:49:21,863 - root - INFO - -----start------
+2018-10-24 10:49:21,865 - root - INFO - 测试单号：669169041752 快递名称：天天快递
+2018-10-24 10:49:21,866 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-669169041752-tiantian.html
+2018-10-24 10:49:22,029 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'tiantian', 'nu': '669169041752', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:49:22,031 - root - INFO - 获取公司名称：None
+2018-10-24 10:49:22,032 - root - INFO - 获取data内容：
+2018-10-24 10:49:22,034 - root - INFO - -----start------
+2018-10-24 10:49:22,035 - root - INFO - 测试单号：3832808463094 快递名称：韵达快递
+2018-10-24 10:49:22,037 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-3832808463094-yunda.html
+2018-10-24 10:49:22,175 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yunda', 'nu': '3832808463094', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 10:49:22,177 - root - INFO - 获取公司名称：None
+2018-10-24 10:49:22,178 - root - INFO - 获取data内容：
+2018-10-24 14:14:51,064 - root - INFO - -----登录成功用例：start!------
+2018-10-24 14:14:51,065 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 14:14:51,066 - root - INFO - 输入正确的密码：yinruihua1996
+2018-10-24 14:14:51,444 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 14:14:51,445 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 14:14:51,447 - root - INFO - -----pass!------
+2018-10-24 14:14:51,448 - root - INFO - -----登录失败用例：start!------
+2018-10-24 14:14:51,449 - root - INFO - 输入正确的账号：yinruihua
+2018-10-24 14:14:51,450 - root - INFO - 输入错误的密码：sdffdgsfdh
+2018-10-24 14:14:51,576 - root - INFO - 我买网登录时间：b'\r\n\r\n{"msg":"2"}\r\n'
+2018-10-24 14:14:51,578 - root - INFO - 获取测试结果：{'msg': '2'}
+2018-10-24 14:14:51,579 - root - INFO - -----pass!------
+2018-10-24 14:14:51,580 - root - INFO - -----start------
+2018-10-24 14:14:51,581 - root - INFO - 测试单号：669169041752 快递名称：天天快递
+2018-10-24 14:14:51,582 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-669169041752-tiantian.html
+2018-10-24 14:14:51,728 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'tiantian', 'nu': '669169041752', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 14:14:51,729 - root - INFO - 获取公司名称：None
+2018-10-24 14:14:51,730 - root - INFO - 获取data内容：
+2018-10-24 14:14:51,732 - root - INFO - -----start------
+2018-10-24 14:14:51,733 - root - INFO - 测试单号：3832808463094 快递名称：韵达快递
+2018-10-24 14:14:51,734 - root - INFO - 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-3832808463094-yunda.html
+2018-10-24 14:14:51,873 - root - INFO - 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yunda', 'nu': '3832808463094', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+2018-10-24 14:14:51,874 - root - INFO - 获取公司名称：None
+2018-10-24 14:14:51,875 - root - INFO - 获取data内容：
